@@ -10,7 +10,7 @@ Visivamente è comparabile ad una cipolla, dove al centro abbiamo la classe prin
 
 La classe concreta finale sarà la combinazione o la composizione di tutti questi decoratori ritornato dall'ultimo anello.
 
-![](Images/decorator.png)
+![](decorator.png)
 
 Un decoratore è e possiede l'oggetto del componente che avvolge, provvedendo un'alternativa flessibile per aggiungere funzionalità senza avere una gerarchia di classi.
 

@@ -7,4 +7,4 @@ Principi fondamentali.
 -   Dipendere da un'astrazione piuttosto che da una implementazione.
 -   Dipendere dall'Argomento del costruttore. (Constructor Injection)
 
-![](Images/dip.png)
+![](dip.png)

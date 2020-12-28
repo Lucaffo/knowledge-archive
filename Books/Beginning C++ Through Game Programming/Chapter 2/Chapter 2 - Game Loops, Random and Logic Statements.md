@@ -32,7 +32,7 @@ The _game loop_ is a generalized representation of the flow of events in a game.
 
 The loops envolves the entire collection of components or systems of the games. It may exists game loops nested inside others game loops. It's the crude macro and micro game logic.
 
-![game loop](Images/gameloop.png "Gameloop")
+![game loop](gameloop.png "Gameloop")
 
 ### SWITCH STATEMENT
 
