@@ -1,5 +1,5 @@
-# knowledgement-archive
-This is my own knoledgement archive with books/articles and researches written by me. Here you can find mainly math/algebrics or game programming material.
+# knowledge-archive
+This is my own knowledge archive with books/articles and researches written by me. Here you can find mainly math/algebrics or game programming material.
 
 > Only meaningfully information are inside these archives.
 > I will try to not repeat material as i can.
