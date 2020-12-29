@@ -1,3 +1,6 @@
+BFS Algorithm
+===
+
 BFS is the short of Breadth-first Search. It use a graph search, in order to find the best path between two points.
 
 Each node should have a reference to the previous node ( Like a list ). This reference is used only by the algorithm in order to retrieve path from the last node (Potentially the destination). The algorithm has `frontierNodes` and `exploderNodes`.  
