@@ -21,3 +21,4 @@ Design patterns
 [[Decorator Pattern]]
 [[Command Pattern]]
 [[Dipendency Injection Pattern]]
+[[Adapter Pattern]]
