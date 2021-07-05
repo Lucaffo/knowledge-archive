@@ -1,3 +1,0 @@
-- If make sense imagine what it happen when i press a button, it means that it works. 
-- Aim to the uniqueness. Extremize it.
-- Don't aim only to story design or ambient design. Games are made of interactions.

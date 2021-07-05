@@ -1,7 +1,7 @@
 Strategy Pattern
 ===
 
-L'obbiettivo è di rendere dinamica l'implementazione di algoritmi e funzioni, e cambiarli dinamicamente al runtime. Prevede che gli algoritmi siano intercambiabili tra di loro e che ritornino lo stesso tipo di oggetto alla fine.
+L'obiettivo è di rendere dinamica l'implementazione di algoritmi e funzioni, e cambiarli dinamicamente al runtime. Prevede che gli algoritmi siano intercambiabili tra di loro e che ritornino lo stesso tipo di oggetto alla fine.
 
 Questo cosa comporta?
 

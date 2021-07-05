@@ -1,6 +1,0 @@
--   The best programmers can take a complex problem, break it down into smaller pieces, solve each of those pieces, and then put everything back together to solve the initial problem.
--   Plan your code away from the computer. It will help you build a clear mental model before you start. You use the same strategy in writing, because if you don’t have an outline, your content becomes a messy stream of consciousness.
--   “When you're stuck, write your program on paper. I'm serious. It's magic. This is standard practice in programming competitions. (I think it works because when you don't have to think about syntax you have more excess brain power to solve the actual problem.)”
--   As an architect, you can’t have blind spots in your understanding of your applications and their execution environments.
--   Using inheritance often reduces testability and reusability of your object-oriented code in the long run. Your first choice should be using composition and interfaces.
--   Commit your code in small, working chunks and write a detailed commit messages that will help developers find and understand bugs that may have been introduced in that commit. Just summarize what you did and why you did it.
